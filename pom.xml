@@ -13,6 +13,7 @@
         <module>prototype</module>
         <module>factory-method</module>
         <module>abstract-factory</module>
+        <module>adapter</module>
     </modules>
     <packaging>pom</packaging>
 
