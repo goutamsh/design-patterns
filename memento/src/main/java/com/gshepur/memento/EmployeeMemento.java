@@ -1,5 +1,6 @@
 package com.gshepur.memento;
 
+//Memento
 public class EmployeeMemento {
 
     private String name;
