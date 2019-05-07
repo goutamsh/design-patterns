@@ -25,6 +25,10 @@
         <module>iterator</module>
         <module>memento</module>
         <module>observer</module>
+        <module>state</module>
+        <module>strategy</module>
+        <module>template</module>
+        <module>visitor</module>
     </modules>
     <packaging>pom</packaging>
 
