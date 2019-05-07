@@ -2,6 +2,7 @@ package com.gshepur.memento;
 
 import java.util.Stack;
 
+//Caretaker
 public class Caretaker {
 
     private Stack<EmployeeMemento> mementos = new Stack<>();
